@@ -1,33 +1,39 @@
 class Solution {
-    public int symbol(char c) {
-        switch (c) {
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default: return 0; // Invalid Roman numeral character
-        }
+    public int symbol(char c)
+    {
+        if (c == 'I')
+            return 1;
+        if (c == 'V')
+            return 5;
+        if (c == 'X')
+            return 10;
+        if (c == 'L')
+            return 50;
+        if (c == 'C')
+            return 100;
+        if (c == 'D')
+            return 500;
+        if (c == 'M')
+            return 1000;
+        return -1;
     }
-
     public int romanToInt(String s) {
-        int result = 0;
-        int prevValue = 0;
-
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int currentValue = symbol(s.charAt(i));
-
-            if (currentValue < prevValue) {
-                result -= currentValue; // Subtract if the current value is smaller than the previous
-            } else {
-                result += currentValue;
-            }
-
-            prevValue = currentValue;
-        }
-
-        return result;
+              int h=0;
+              int p=0;
+          for(int i=s.length(); i>0; i--)
+          {
+              int a = symbol(s.charAt(i-1));
+                  if(a<p)
+                  {
+                      h=h-a;
+                      
+                  }
+              else
+              {
+                  h=h+a;
+              }
+              p=a;
     }
+        return h;
+}
 }
