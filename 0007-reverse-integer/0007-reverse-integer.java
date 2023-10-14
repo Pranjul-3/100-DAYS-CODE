@@ -3,7 +3,7 @@ class Solution {
         int reverse = 0;
         while (x != 0) {
             int remainder = x % 10;
-            if (reverse > Integer.MAX_VALUE / 10  || reverse < Integer.MIN_VALUE / 10)
+            if (reverse>2147483647/10  || reverse<-2147483647/10)
             {
                 return 0;
             }
