@@ -7,7 +7,6 @@ class Solution {
                 return 0;
             }
             int remainder = x % 10;
-            
             reverse = reverse * 10 + remainder;
             x = x / 10;
         }
