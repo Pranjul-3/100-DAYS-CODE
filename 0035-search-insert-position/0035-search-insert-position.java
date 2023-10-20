@@ -6,19 +6,17 @@ class Solution {
             m=l+(u-l)/2;
             if(nums[m]==target)
             {
-                return m;
+             return m;
             }
-            if(nums[m]<target)
+            else if(nums[m]<target)
             {
                 l=m+1;
             }
             else
             {
-                u=m-1;
+              u=m-1;
             }
-            
         }
         return l;
-        
     }
 }
