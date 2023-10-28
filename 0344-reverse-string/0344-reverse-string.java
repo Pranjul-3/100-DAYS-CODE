@@ -3,6 +3,7 @@ class Solution {
     {
          String s1="";
     String s2="";
+        int c=0;
     
         for(int i=0; i<=s.length-1; i++)
         {
@@ -14,7 +15,8 @@ class Solution {
     }
         for(int i=0; i<=s2.length()-1; i++)
         {
-           s[i]=s2.charAt(i);
+           s[c]=s2.charAt(i);
+            c++;
         }
     }
 }
