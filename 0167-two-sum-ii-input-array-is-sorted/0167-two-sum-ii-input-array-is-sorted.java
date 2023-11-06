@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        
+      // logic is applicable on sorted array here array is sorted   
         int f=0;
         int l=numbers.length-1;
         while(f<l)
