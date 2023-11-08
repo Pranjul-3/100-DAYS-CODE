@@ -1,27 +1,24 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int reverse = 0;
-        int t=x;
+        if(x<0)
+        return false;
 
-        while(x != 0)   
-{  
-int remainder = x % 10;  
-reverse = reverse * 10 + remainder;  
-x = x/10;  
-
-
-        
+         String s=x+"";
+         int len=s.length();
+         int f=0;
+         int l=len-1;
+         while(f<l)
+         {
+           if(s.charAt(f)==s.charAt(l))
+           {
+             f++;
+             l--;
+           }
+           else
+           {
+             return false;
+           }
+         }
+         return true;
     }
-    if(t>=0)
-    {
-    if (reverse == t)
-    return true;
-    else 
-    return false;
-    }
-    else
-    {
-      return false;  
-    }
-}
 }
