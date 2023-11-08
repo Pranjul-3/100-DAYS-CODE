@@ -3,22 +3,19 @@ class Solution {
         if(x<0)
         return false;
 
-         String s=x+"";
-         int len=s.length();
-         int f=0;
-         int l=len-1;
-         while(f<l)
-         {
-           if(s.charAt(f)==s.charAt(l))
-           {
-             f++;
-             l--;
-           }
-           else
-           {
-             return false;
-           }
-         }
-         return true;
+        int temp=x,rev=0,r;
+        while(temp!=0)
+        {
+          r=temp%10;
+          rev=rev*10+r;
+          temp=temp/10;
+        }
+        if(x==rev)
+        {
+          return true;
+        }
+        return false;
+
+        
     }
 }
