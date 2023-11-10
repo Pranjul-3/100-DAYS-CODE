@@ -21,3 +21,4 @@ class Solution {
         
     }
 }
+ // or use the function Integer.sum(a,b)
