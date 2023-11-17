@@ -1,9 +1,15 @@
 class Solution {
     public boolean isUgly(int n) {
-        if(n<=0)
+        if(n==0)
         {
             return false;
         }
+     else if(n==1)
+        {
+            return true;
+        }
+        else
+        {
         while(n%2==0)
         {
             n=n/2;
@@ -16,6 +22,10 @@ class Solution {
         {
             n=n/5;
         }
-        return n==1;
+        }
+        if(n==1)
+        return true;
+        else
+            return false;
     }
 }
