@@ -24,7 +24,6 @@ class Solution {
             }
         }
 
-        // Trim the result array to the actual size
         return Arrays.copyOf(res, n);
     }
 }
