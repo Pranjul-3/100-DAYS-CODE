@@ -8,8 +8,10 @@ class Solution {
             char c1 = arr[i];
             char c2 = arr[j];
             if (Character.isLetter(c1) && Character.isLetter(c2)) {
-                arr[i++] = c2;
-                arr[j--] = c1;
+                arr[i] = c2;
+                i++;
+                arr[j] = c1;
+                j--;
             }
             if(!Character.isLetter(c2)){
                 j--;
