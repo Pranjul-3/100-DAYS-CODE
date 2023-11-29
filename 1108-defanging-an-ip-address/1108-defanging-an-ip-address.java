@@ -1,29 +1,5 @@
 class Solution {
     public String defangIPaddr(String address) {
-        return address.replace(".","[.]");
-        
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**class Solution {
-    public String defangIPaddr(String address) {
      StringBuilder str = new StringBuilder();
 
         for (int i = 0; i < address.length(); i++) {
@@ -36,4 +12,4 @@ class Solution {
 
         return str.toString();  
     }
-}**/
+}
