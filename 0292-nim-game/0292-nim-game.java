@@ -1,5 +1,20 @@
 class Solution {
     public boolean canWinNim(int n) {
+        return n%4!=0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+/** class Solution {
+    public boolean canWinNim(int n) {
 
          if(n<=3)
          {
@@ -14,4 +29,4 @@ class Solution {
             return true;
         }
     }
-}
+} **/
