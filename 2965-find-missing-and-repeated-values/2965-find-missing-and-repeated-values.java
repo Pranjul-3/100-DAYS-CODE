@@ -23,7 +23,7 @@ public class Solution {
             }
         }
 
-        // Find the missing number
+    
         for (int i = 1; i <= n * n; i++) {
             if (Arrays.binarySearch(a, i) < 0) {
                 b[1] = i;
