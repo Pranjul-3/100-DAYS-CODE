@@ -8,7 +8,7 @@ public class Solution {
         int[] b = new int[2];
         int k = 0;
 
-        // Flatten the 2D grid into a 1D array
+       
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 a[k++] = grid[i][j];
