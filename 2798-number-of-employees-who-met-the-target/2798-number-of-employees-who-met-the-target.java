@@ -1,10 +1,9 @@
 class Solution {
     public int numberOfEmployeesWhoMetTarget(int[] hours, int target) {
-        Arrays.sort(hours);
         int c=0;
-        for(int i=0;i<hours.length;i++)
+        for(int i:hours)
         {
-            if(hours[i]>=target)
+            if(i>=target)
             {
                c++;
             }
