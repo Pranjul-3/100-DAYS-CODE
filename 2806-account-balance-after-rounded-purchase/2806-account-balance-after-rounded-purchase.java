@@ -1,15 +1,15 @@
 class Solution {
     public int accountBalanceAfterPurchase(int purchaseAmount) {
         int x=purchaseAmount%10;
-        int sum=0;
-        if(x<5)
+        int s=0;
+        if(x>=5)
         {
-            sum=purchaseAmount-x;
+            s=purchaseAmount+(10-x);
         }
         else
-        sum=purchaseAmount+(10-x);
+        s=purchaseAmount-x;
 
-        return 100-sum;
+        return 100-s;
     }
 }
     
