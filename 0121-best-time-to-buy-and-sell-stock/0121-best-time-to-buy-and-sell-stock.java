@@ -1,7 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        
-    int lsf = Integer.MAX_VALUE;
+       int lsf = Integer.MAX_VALUE;
         int op = 0;
         int pist = 0;
         
@@ -15,5 +14,6 @@ class Solution {
             }
         }
         return op;
+        
     }
 }
