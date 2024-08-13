@@ -55,4 +55,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
