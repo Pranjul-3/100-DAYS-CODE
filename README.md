@@ -26,6 +26,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
 ## Merge Sort
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
