@@ -27,11 +27,13 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -83,4 +86,17 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0165-compare-version-numbers) |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
