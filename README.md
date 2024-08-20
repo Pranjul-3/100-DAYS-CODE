@@ -99,4 +99,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
