@@ -11,11 +11,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0177-nth-highest-salary) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
