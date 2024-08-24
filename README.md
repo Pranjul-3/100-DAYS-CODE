@@ -36,6 +36,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,11 +51,13 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0165-compare-version-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
