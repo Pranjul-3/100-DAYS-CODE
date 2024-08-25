@@ -6,12 +6,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
+| [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -23,6 +25,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
