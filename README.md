@@ -7,6 +7,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Trie
 |  |
 | ------- |
@@ -120,4 +124,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
