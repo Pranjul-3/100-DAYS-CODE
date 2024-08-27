@@ -35,6 +35,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
+| [1325-path-with-maximum-probability](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/1325-path-with-maximum-probability) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +127,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
