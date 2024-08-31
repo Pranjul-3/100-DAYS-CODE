@@ -10,6 +10,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0164-maximum-gap](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0164-maximum-gap) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/1325-path-with-maximum-probability) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,11 +52,13 @@
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0148-sort-list) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Graph
 |  |
 | ------- |
