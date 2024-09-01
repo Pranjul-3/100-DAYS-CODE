@@ -11,6 +11,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0133-clone-graph](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0207-course-schedule) |
 | [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +93,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0155-min-stack) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Design
 |  |
 | ------- |
