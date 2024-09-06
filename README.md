@@ -14,6 +14,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0152-maximum-product-subarray) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bucket Sort
 |  |
 | ------- |
