@@ -116,6 +116,7 @@
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0131-palindrome-partitioning) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -129,11 +130,13 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0165-compare-version-numbers) |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0140-word-break-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pranjul-3/100-DAYS-CODE/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
